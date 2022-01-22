@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/planets"
+        android:icon="@drawable/ic_baseline_login_24"
+        android:iconTint="#FDCB80"
+        android:title="Planets"/>
+
+    <item android:id="@+id/person"
+        android:iconTint="@color/white"
+        android:icon="@drawable/ic_baseline_event_note_24"
+        android:title="Profile"/>
+
+
+
+</menu>
